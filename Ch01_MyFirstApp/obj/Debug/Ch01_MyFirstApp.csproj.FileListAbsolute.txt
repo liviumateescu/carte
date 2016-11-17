@@ -1,0 +1,9 @@
+D:\work\visualstudio\Ch01_MyFirstApp\Ch01_MyFirstApp\bin\Debug\Ch01_MyFirstApp.exe.config
+D:\work\visualstudio\Ch01_MyFirstApp\Ch01_MyFirstApp\bin\Debug\Ch01_MyFirstApp.exe
+D:\work\visualstudio\Ch01_MyFirstApp\Ch01_MyFirstApp\bin\Debug\Ch01_MyFirstApp.pdb
+D:\work\visualstudio\Ch01_MyFirstApp\Ch01_MyFirstApp\obj\Debug\Ch01_MyFirstApp.csprojResolveAssemblyReference.cache
+D:\work\visualstudio\Ch01_MyFirstApp\Ch01_MyFirstApp\obj\Debug\Ch01_MyFirstApp.exe
+D:\work\visualstudio\Ch01_MyFirstApp\Ch01_MyFirstApp\obj\Debug\Ch01_MyFirstApp.pdb
+D:\work\repos\carte\Ch01_MyFirstApp\bin\Debug\Ch01_MyFirstApp.exe.config
+D:\work\repos\carte\Ch01_MyFirstApp\obj\Debug\Ch01_MyFirstApp.exe
+D:\work\repos\carte\Ch01_MyFirstApp\obj\Debug\Ch01_MyFirstApp.pdb
