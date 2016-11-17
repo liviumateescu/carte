@@ -1,5 +1,5 @@
---temp-output:D:\work\visualstudio\Ch01_MyFirstApp\Ch01_DotNetCore\obj\Debug\netcoreapp1.0\
---out:D:\work\visualstudio\Ch01_MyFirstApp\Ch01_DotNetCore\bin\Debug\netcoreapp1.0\Ch01_DotNetCore.dll
+--temp-output:D:\work\repos\carte\Ch01_DotNetCore\obj\Debug\netcoreapp1.0\
+--out:D:\work\repos\carte\Ch01_DotNetCore\bin\Debug\netcoreapp1.0\Ch01_DotNetCore.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -86,5 +86,5 @@
 --reference:C:\Users\Trekster\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Trekster\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Trekster\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-D:\work\visualstudio\Ch01_MyFirstApp\Ch01_DotNetCore\Program.cs
-D:\work\visualstudio\Ch01_MyFirstApp\Ch01_DotNetCore\Properties\AssemblyInfo.cs
+D:\work\repos\carte\Ch01_DotNetCore\Program.cs
+D:\work\repos\carte\Ch01_DotNetCore\Properties\AssemblyInfo.cs

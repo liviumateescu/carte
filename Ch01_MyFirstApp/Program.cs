@@ -11,6 +11,7 @@ namespace Ch01_MyFirstApp
         static void Main(string[] args)
         {
             System.Console.WriteLine("ceva");
+            Console.WriteLine("ceva");
         }
     }
 }
