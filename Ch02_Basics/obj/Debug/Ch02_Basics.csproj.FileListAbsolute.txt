@@ -1,0 +1,6 @@
+D:\work\repos\carte\Ch02_Basics\bin\Debug\Ch02_Basics.exe.config
+D:\work\repos\carte\Ch02_Basics\bin\Debug\Ch02_Basics.exe
+D:\work\repos\carte\Ch02_Basics\bin\Debug\Ch02_Basics.pdb
+D:\work\repos\carte\Ch02_Basics\obj\Debug\Ch02_Basics.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch02_Basics\obj\Debug\Ch02_Basics.exe
+D:\work\repos\carte\Ch02_Basics\obj\Debug\Ch02_Basics.pdb
