@@ -1,0 +1,5 @@
+D:\work\repos\carte\Ch0302\bin\Debug\Ch0302.exe.config
+D:\work\repos\carte\Ch0302\bin\Debug\Ch0302.exe
+D:\work\repos\carte\Ch0302\bin\Debug\Ch0302.pdb
+D:\work\repos\carte\Ch0302\obj\Debug\Ch0302.exe
+D:\work\repos\carte\Ch0302\obj\Debug\Ch0302.pdb

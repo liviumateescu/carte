@@ -1,0 +1,5 @@
+D:\work\repos\carte\Ch04_Lists\bin\Debug\Ch04_Lists.exe.config
+D:\work\repos\carte\Ch04_Lists\bin\Debug\Ch04_Lists.exe
+D:\work\repos\carte\Ch04_Lists\bin\Debug\Ch04_Lists.pdb
+D:\work\repos\carte\Ch04_Lists\obj\Debug\Ch04_Lists.exe
+D:\work\repos\carte\Ch04_Lists\obj\Debug\Ch04_Lists.pdb
