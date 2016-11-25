@@ -1,0 +1,5 @@
+D:\work\repos\carte\Ch05_HackNotepad\bin\Debug\Ch05_HackNotepad.exe.config
+D:\work\repos\carte\Ch05_HackNotepad\bin\Debug\Ch05_HackNotepad.exe
+D:\work\repos\carte\Ch05_HackNotepad\bin\Debug\Ch05_HackNotepad.pdb
+D:\work\repos\carte\Ch05_HackNotepad\obj\Debug\Ch05_HackNotepad.exe
+D:\work\repos\carte\Ch05_HackNotepad\obj\Debug\Ch05_HackNotepad.pdb

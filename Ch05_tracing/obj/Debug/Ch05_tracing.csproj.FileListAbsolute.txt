@@ -1,0 +1,5 @@
+D:\work\repos\carte\Ch05_tracing\bin\Debug\Ch05_tracing.exe.config
+D:\work\repos\carte\Ch05_tracing\bin\Debug\Ch05_tracing.exe
+D:\work\repos\carte\Ch05_tracing\bin\Debug\Ch05_tracing.pdb
+D:\work\repos\carte\Ch05_tracing\obj\Debug\Ch05_tracing.exe
+D:\work\repos\carte\Ch05_tracing\obj\Debug\Ch05_tracing.pdb

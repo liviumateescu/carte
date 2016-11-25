@@ -1,0 +1,7 @@
+D:\work\repos\carte\Ch05_AutomatingExcel\bin\Debug\Ch05_AutomatingExcel.exe.config
+D:\work\repos\carte\Ch05_AutomatingExcel\bin\Debug\Ch05_AutomatingExcel.exe
+D:\work\repos\carte\Ch05_AutomatingExcel\bin\Debug\Ch05_AutomatingExcel.pdb
+D:\work\repos\carte\Ch05_AutomatingExcel\obj\Debug\Ch05_AutomatingExcel.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch05_AutomatingExcel\obj\Debug\Ch05_AutomatingExcel.csproj.ResolveComReference.cache
+D:\work\repos\carte\Ch05_AutomatingExcel\obj\Debug\Ch05_AutomatingExcel.exe
+D:\work\repos\carte\Ch05_AutomatingExcel\obj\Debug\Ch05_AutomatingExcel.pdb
