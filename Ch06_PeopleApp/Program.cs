@@ -80,6 +80,44 @@ namespace Ch06_PeopleApp
             Console.WriteLine($"{harry.Name} has {harry.Children.Count} children.");
             Person baby2 = harry * marry;
             Console.WriteLine($"{marry.Name} has {marry.Children.Count} children.");
+
+            p1.Shout += P1_Shout;
+            p1.Poke();
+            p1.Poke();
+            p1.Poke();
+            p1.Poke();
+
+            Person[] people =
+            {
+                new Person { Name = "Simon" },
+                new Person { Name = "Jenny" },
+                new Person { Name = "Adam" },
+                new Person { Name = "Richard" },
+            };
+            Array.Sort(people);
+            foreach (Person person in people)
+            {
+                Console.WriteLine($"{person.Name}");
+            }
+
+            Array.Sort(people, new PersonComparer());
+            foreach (Person p in people)
+            {
+                Console.WriteLine($"{p.Name}");
+            }
+
+            DisplacementVector dv1 = new DisplacementVector(3, 5);
+            DisplacementVector dv2 = new DisplacementVector(-2, 7);
+            DisplacementVector dv3 = dv1 + dv2;
+            Console.WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
+
+        }
+
+
+        private static void P1_Shout(object sender, EventArgs e)
+        {
+            Person p = (Person)sender;
+            Console.WriteLine($"{p.Name} is this angry: {p.AngerLevel}.");
         }
     }
 }

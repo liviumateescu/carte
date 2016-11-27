@@ -1,0 +1,8 @@
+D:\work\repos\carte\Ch07_InheritanceApp\bin\Debug\Ch07_InheritanceApp.exe.config
+D:\work\repos\carte\Ch07_InheritanceApp\bin\Debug\Ch07_InheritanceApp.exe
+D:\work\repos\carte\Ch07_InheritanceApp\bin\Debug\Ch07_InheritanceApp.pdb
+D:\work\repos\carte\Ch07_InheritanceApp\bin\Debug\Ch06_PacktLibrary.dll
+D:\work\repos\carte\Ch07_InheritanceApp\bin\Debug\Ch06_PacktLibrary.pdb
+D:\work\repos\carte\Ch07_InheritanceApp\obj\Debug\Ch07_InheritanceApp.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch07_InheritanceApp\obj\Debug\Ch07_InheritanceApp.exe
+D:\work\repos\carte\Ch07_InheritanceApp\obj\Debug\Ch07_InheritanceApp.pdb

@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch06_PeopleApp", "Ch06_Peop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch06_PacktLibrary", "Ch06_PacktLibrary\Ch06_PacktLibrary.csproj", "{79064D42-4531-4834-8A85-438D62C896E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch07_InheritanceApp", "Ch07_InheritanceApp\Ch07_InheritanceApp.csproj", "{C2DDB021-1254-4014-AC3D-EC451FD7EE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch07_ExtensionMethods", "Ch07_ExtensionMethods\Ch07_ExtensionMethods.csproj", "{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{79064D42-4531-4834-8A85-438D62C896E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79064D42-4531-4834-8A85-438D62C896E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79064D42-4531-4834-8A85-438D62C896E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DDB021-1254-4014-AC3D-EC451FD7EE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DDB021-1254-4014-AC3D-EC451FD7EE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DDB021-1254-4014-AC3D-EC451FD7EE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DDB021-1254-4014-AC3D-EC451FD7EE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

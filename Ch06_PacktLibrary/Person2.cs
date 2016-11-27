@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Packt.CS6
 {
-    public partial class Person
+    public partial class Person : IComparable<Person>
     {
         public string Origin {
             get
@@ -64,6 +64,25 @@ namespace Packt.CS6
         public static Person operator * (Person p1, Person p2)
         {
             return p1.Procreate(p2);
+        }
+
+        public event EventHandler Shout;
+        public int AngerLevel;
+        public void Poke()
+        {
+            AngerLevel++;
+            if (AngerLevel >= 3)
+            {
+                if (Shout != null)
+                {
+                    Shout(this, EventArgs.Empty);
+                }
+            }
+        }
+
+        public int CompareTo(Person other)
+        {
+            return Name.CompareTo(other.Name);
         }
     }
 }

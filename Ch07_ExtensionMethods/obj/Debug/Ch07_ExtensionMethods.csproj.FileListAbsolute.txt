@@ -1,0 +1,8 @@
+D:\work\repos\carte\Ch07_ExtensionMethods\bin\Debug\Ch07_ExtensionMethods.exe.config
+D:\work\repos\carte\Ch07_ExtensionMethods\bin\Debug\Ch07_ExtensionMethods.exe
+D:\work\repos\carte\Ch07_ExtensionMethods\bin\Debug\Ch07_ExtensionMethods.pdb
+D:\work\repos\carte\Ch07_ExtensionMethods\bin\Debug\Ch06_PacktLibrary.dll
+D:\work\repos\carte\Ch07_ExtensionMethods\bin\Debug\Ch06_PacktLibrary.pdb
+D:\work\repos\carte\Ch07_ExtensionMethods\obj\Debug\Ch07_ExtensionMethods.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch07_ExtensionMethods\obj\Debug\Ch07_ExtensionMethods.exe
+D:\work\repos\carte\Ch07_ExtensionMethods\obj\Debug\Ch07_ExtensionMethods.pdb

@@ -3,3 +3,8 @@ D:\work\repos\Ch06_PacktLibrary\bin\Debug\Ch06_PacktLibrary.pdb
 D:\work\repos\Ch06_PacktLibrary\obj\Debug\Ch06_PacktLibrary.csprojResolveAssemblyReference.cache
 D:\work\repos\Ch06_PacktLibrary\obj\Debug\Ch06_PacktLibrary.dll
 D:\work\repos\Ch06_PacktLibrary\obj\Debug\Ch06_PacktLibrary.pdb
+D:\work\repos\carte\Ch06_PacktLibrary\bin\Debug\Ch06_PacktLibrary.dll
+D:\work\repos\carte\Ch06_PacktLibrary\bin\Debug\Ch06_PacktLibrary.pdb
+D:\work\repos\carte\Ch06_PacktLibrary\obj\Debug\Ch06_PacktLibrary.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch06_PacktLibrary\obj\Debug\Ch06_PacktLibrary.dll
+D:\work\repos\carte\Ch06_PacktLibrary\obj\Debug\Ch06_PacktLibrary.pdb

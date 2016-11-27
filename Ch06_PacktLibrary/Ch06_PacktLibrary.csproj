@@ -41,10 +41,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BankAccount.cs" />
+    <Compile Include="BankAccountException.cs" />
+    <Compile Include="DisplacementVector.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="MyExtensions.cs" />
     <Compile Include="Person2.cs" />
+    <Compile Include="PersonComparer.cs" />
     <Compile Include="WondersOfTheAncientWorld.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PacktLibrary.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
