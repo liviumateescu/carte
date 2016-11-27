@@ -1,0 +1,6 @@
+D:\work\repos\carte\Ch08_ADONET\bin\Debug\Ch08_ADONET.exe.config
+D:\work\repos\carte\Ch08_ADONET\bin\Debug\Ch08_ADONET.exe
+D:\work\repos\carte\Ch08_ADONET\bin\Debug\Ch08_ADONET.pdb
+D:\work\repos\carte\Ch08_ADONET\obj\Debug\Ch08_ADONET.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch08_ADONET\obj\Debug\Ch08_ADONET.exe
+D:\work\repos\carte\Ch08_ADONET\obj\Debug\Ch08_ADONET.pdb

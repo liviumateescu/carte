@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch07_InheritanceApp", "Ch07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch07_ExtensionMethods", "Ch07_ExtensionMethods\Ch07_ExtensionMethods.csproj", "{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch08_ADONET", "Ch08_ADONET\Ch08_ADONET.csproj", "{2FBC01F3-7936-4B31-BF60-E069DCCA7C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B6AFF83-F8C8-4B2D-AC16-42A79021C572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBC01F3-7936-4B31-BF60-E069DCCA7C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBC01F3-7936-4B31-BF60-E069DCCA7C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBC01F3-7936-4B31-BF60-E069DCCA7C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBC01F3-7936-4B31-BF60-E069DCCA7C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
