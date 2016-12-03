@@ -1,0 +1,8 @@
+D:\work\repos\carte\Ch11_Hashing\bin\Debug\Ch11_Hashing.exe.config
+D:\work\repos\carte\Ch11_Hashing\bin\Debug\Ch11_Hashing.exe
+D:\work\repos\carte\Ch11_Hashing\bin\Debug\Ch11_Hashing.pdb
+D:\work\repos\carte\Ch11_Hashing\bin\Debug\Ch11_Cryptography.dll
+D:\work\repos\carte\Ch11_Hashing\bin\Debug\Ch11_Cryptography.pdb
+D:\work\repos\carte\Ch11_Hashing\obj\Debug\Ch11_Hashing.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch11_Hashing\obj\Debug\Ch11_Hashing.exe
+D:\work\repos\carte\Ch11_Hashing\obj\Debug\Ch11_Hashing.pdb

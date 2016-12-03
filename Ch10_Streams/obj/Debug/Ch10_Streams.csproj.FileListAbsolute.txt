@@ -1,0 +1,5 @@
+D:\work\repos\carte\Ch10_Streams\bin\Debug\Ch10_Streams.exe.config
+D:\work\repos\carte\Ch10_Streams\bin\Debug\Ch10_Streams.exe
+D:\work\repos\carte\Ch10_Streams\bin\Debug\Ch10_Streams.pdb
+D:\work\repos\carte\Ch10_Streams\obj\Debug\Ch10_Streams.exe
+D:\work\repos\carte\Ch10_Streams\obj\Debug\Ch10_Streams.pdb

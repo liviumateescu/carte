@@ -1,0 +1,8 @@
+D:\work\repos\carte\Ch11_Encryption\bin\Debug\Ch11_Encryption.exe.config
+D:\work\repos\carte\Ch11_Encryption\bin\Debug\Ch11_Encryption.exe
+D:\work\repos\carte\Ch11_Encryption\bin\Debug\Ch11_Encryption.pdb
+D:\work\repos\carte\Ch11_Encryption\bin\Debug\Ch11_Cryptography.dll
+D:\work\repos\carte\Ch11_Encryption\bin\Debug\Ch11_Cryptography.pdb
+D:\work\repos\carte\Ch11_Encryption\obj\Debug\Ch11_Encryption.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch11_Encryption\obj\Debug\Ch11_Encryption.exe
+D:\work\repos\carte\Ch11_Encryption\obj\Debug\Ch11_Encryption.pdb

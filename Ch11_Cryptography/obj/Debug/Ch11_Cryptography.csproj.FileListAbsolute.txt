@@ -1,0 +1,5 @@
+D:\work\repos\carte\Ch11_Cryptography\bin\Debug\Ch11_Cryptography.dll
+D:\work\repos\carte\Ch11_Cryptography\bin\Debug\Ch11_Cryptography.pdb
+D:\work\repos\carte\Ch11_Cryptography\obj\Debug\Ch11_Cryptography.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch11_Cryptography\obj\Debug\Ch11_Cryptography.dll
+D:\work\repos\carte\Ch11_Cryptography\obj\Debug\Ch11_Cryptography.pdb

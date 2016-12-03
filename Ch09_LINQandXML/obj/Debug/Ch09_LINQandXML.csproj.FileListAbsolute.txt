@@ -1,0 +1,10 @@
+D:\work\repos\carte\Ch09_LINQandXML\bin\Debug\Ch09_LINQandXML.exe.config
+D:\work\repos\carte\Ch09_LINQandXML\bin\Debug\Ch09_LINQandXML.exe
+D:\work\repos\carte\Ch09_LINQandXML\bin\Debug\Ch09_LINQandXML.pdb
+D:\work\repos\carte\Ch09_LINQandXML\bin\Debug\EntityFramework.dll
+D:\work\repos\carte\Ch09_LINQandXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\repos\carte\Ch09_LINQandXML\bin\Debug\EntityFramework.xml
+D:\work\repos\carte\Ch09_LINQandXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\repos\carte\Ch09_LINQandXML\obj\Debug\Ch09_LINQandXML.exe
+D:\work\repos\carte\Ch09_LINQandXML\obj\Debug\Ch09_LINQandXML.pdb
+D:\work\repos\carte\Ch09_LINQandXML\obj\Debug\Ch09_LINQandXML.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\work\repos\carte\Ch09_LinqToObjects\bin\Debug\Ch09_LinqToObjects.exe.config
+D:\work\repos\carte\Ch09_LinqToObjects\bin\Debug\Ch09_LinqToObjects.exe
+D:\work\repos\carte\Ch09_LinqToObjects\bin\Debug\Ch09_LinqToObjects.pdb
+D:\work\repos\carte\Ch09_LinqToObjects\obj\Debug\Ch09_LinqToObjects.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\Ch09_LinqToObjects\obj\Debug\Ch09_LinqToObjects.exe
+D:\work\repos\carte\Ch09_LinqToObjects\obj\Debug\Ch09_LinqToObjects.pdb

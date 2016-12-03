@@ -1,0 +1,10 @@
+D:\work\repos\carte\CH08_EF6\bin\Debug\CH08_EF6.exe.config
+D:\work\repos\carte\CH08_EF6\obj\Debug\CH08_EF6.csprojResolveAssemblyReference.cache
+D:\work\repos\carte\CH08_EF6\bin\Debug\CH08_EF6.exe
+D:\work\repos\carte\CH08_EF6\bin\Debug\CH08_EF6.pdb
+D:\work\repos\carte\CH08_EF6\bin\Debug\EntityFramework.dll
+D:\work\repos\carte\CH08_EF6\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\repos\carte\CH08_EF6\bin\Debug\EntityFramework.xml
+D:\work\repos\carte\CH08_EF6\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\repos\carte\CH08_EF6\obj\Debug\CH08_EF6.exe
+D:\work\repos\carte\CH08_EF6\obj\Debug\CH08_EF6.pdb

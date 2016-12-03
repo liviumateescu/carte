@@ -1,0 +1,9 @@
+D:\work\repos\carte\Ch08_LoadingPatterns\bin\Debug\Ch08_LoadingPatterns.exe.config
+D:\work\repos\carte\Ch08_LoadingPatterns\bin\Debug\Ch08_LoadingPatterns.exe
+D:\work\repos\carte\Ch08_LoadingPatterns\bin\Debug\Ch08_LoadingPatterns.pdb
+D:\work\repos\carte\Ch08_LoadingPatterns\bin\Debug\EntityFramework.dll
+D:\work\repos\carte\Ch08_LoadingPatterns\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\repos\carte\Ch08_LoadingPatterns\bin\Debug\EntityFramework.xml
+D:\work\repos\carte\Ch08_LoadingPatterns\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\repos\carte\Ch08_LoadingPatterns\obj\Debug\Ch08_LoadingPatterns.exe
+D:\work\repos\carte\Ch08_LoadingPatterns\obj\Debug\Ch08_LoadingPatterns.pdb

@@ -1,0 +1,5 @@
+D:\work\repos\carte\Ch10_FileSystem\bin\Debug\Ch10_FileSystem.exe.config
+D:\work\repos\carte\Ch10_FileSystem\bin\Debug\Ch10_FileSystem.exe
+D:\work\repos\carte\Ch10_FileSystem\bin\Debug\Ch10_FileSystem.pdb
+D:\work\repos\carte\Ch10_FileSystem\obj\Debug\Ch10_FileSystem.exe
+D:\work\repos\carte\Ch10_FileSystem\obj\Debug\Ch10_FileSystem.pdb

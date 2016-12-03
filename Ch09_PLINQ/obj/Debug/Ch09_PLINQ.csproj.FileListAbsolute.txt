@@ -1,0 +1,5 @@
+D:\work\repos\carte\Ch09_PLINQ\bin\Debug\Ch09_PLINQ.exe.config
+D:\work\repos\carte\Ch09_PLINQ\bin\Debug\Ch09_PLINQ.exe
+D:\work\repos\carte\Ch09_PLINQ\bin\Debug\Ch09_PLINQ.pdb
+D:\work\repos\carte\Ch09_PLINQ\obj\Debug\Ch09_PLINQ.exe
+D:\work\repos\carte\Ch09_PLINQ\obj\Debug\Ch09_PLINQ.pdb
